@@ -1,0 +1,21 @@
+
+
+* [Overview](overview.md)
+* [Using Stages](using-stages/index.md)
+  * [Use the Index](using-stages/use-the-index.md)
+  * [Use git diff](using-stages/use-git-diff.md)
+  * [Interactive staging](using-stages/interactive-staging.md)
+* [Commits](commits/index.md)
+  * [Messages](commits/messages.md)
+  * [Commit often](commits/commit-often.md)
+  * [Amend](commits/amend.md)
+  * [Squash](commits/squash.md)
+* [Git log](git-log/index.md)
+  * [Magit Git Log](git-log/magit-git-log.md)
+  * [Track commits](git-log/track-commits.md)
+* [Blame]()
+* [Rebasing](rebasing/index.md)
+  * [local repositories](rebasing/index.md)
+* [Ignoring files](ignoring-files/index.md)
+  * [Global Ignore](ignoring-files/global-ignore.md)
+  
